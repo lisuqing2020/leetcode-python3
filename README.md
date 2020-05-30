@@ -16,6 +16,7 @@
 |[454*](idea/454_四数相加II.md)|四数相加II|medium|想法题|python3|
 |[468](str/468_验证IP地址.md)|验证IP地址|medium|字符串|python3|
 |[508](recursive/508_出现次数最多的子树元素和.md)|出现次数最多的子树元素和|medium|递归|python3|
+|[594](idea/594_最长和谐子序列.md)|最长和谐子序列|easy|想法题|python3|
 |[714**](dp/714_买卖股票的最佳时机含手续费.md)|买卖股票的最佳时机含手续费|medium|动态规划|python3|
 |[739*](idea/739_每日温度.md)|每日温度|medium|单调栈|python3|
 |[740**](dp/740_删除与获得点数.md)|删除与获得点数|medium|动态规划|python3|
