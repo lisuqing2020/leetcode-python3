@@ -18,6 +18,7 @@
 |[413**](dp/413_等差数列划分.md)|等差数列划分|medium|动态规划|python3|
 |[454*](idea/454_四数相加II.md)|四数相加II|medium|想法题|python3|
 |[468](str/468_验证IP地址.md)|验证IP地址|medium|字符串|python3|
+|[491*](recursive/491_递增子序列.md)|递增子序列|medium|递归|python3|
 |[508](recursive/508_出现次数最多的子树元素和.md)|出现次数最多的子树元素和|medium|递归|python3|
 |[594](idea/594_最长和谐子序列.md)|最长和谐子序列|easy|想法题|python3|
 |[714**](dp/714_买卖股票的最佳时机含手续费.md)|买卖股票的最佳时机含手续费|medium|动态规划|python3|
