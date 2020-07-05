@@ -6,6 +6,7 @@
 |[11*](LR/11_盛最多水的容器.md)|盛最多水的容器|medium|双指针|python3|
 |[18**](LR/18_四数之和.md)|四数之和|medium|双指针|python3|
 |[32**](hard/32_最长有效括号.md)|最长有效括号|hard|动态规划|python3|
+|[44**](hard/44_通配符匹配.md)|通配符匹配|hard|动态规划|python3|
 |[63**](dp/63_不同路径II.md)|不同路径II|medium|动态规划|python3|
 |[84**](hard/84_柱状图中最大的矩形.md)|柱状图中最大的矩形|hard|单调栈|python3|
 |[101*](recursive/101_对称二叉树.md)|对称二叉树|easy|递归|python3|
