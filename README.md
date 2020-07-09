@@ -37,3 +37,4 @@
 |[1339*](recursive/1339_分裂二叉树的最大乘积.md)|分裂二叉树的最大乘积|medium|递归|python3|
 |[1375*](idea/1375_灯泡开关III.md)|灯泡开关III|medium|想法题|python3|
 |[1391*](search/1391_检查网络中是否存在有效路径.md)|检查网络中是否存在有效路径|medium|搜索|python3|
+|[1690**](dp/1690_恢复空格.md)|恢复空格|medium|动态规划|python3|
