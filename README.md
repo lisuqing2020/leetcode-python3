@@ -12,6 +12,7 @@
 |[63**](dp/63_不同路径II.md)|不同路径II|medium|动态规划|python3|
 |[64](dp/64_最小路径和.md)|最小路径和|medium|动态规划|python3|
 |[84**](hard/84_柱状图中最大的矩形.md)|柱状图中最大的矩形|hard|单调栈|python3|
+|[96**](dp/96_不同的二叉搜索树.md)|不同的二叉搜索树|medium|动态规划|python3|
 |[101*](recursive/101_对称二叉树.md)|对称二叉树|easy|递归|python3|
 |[113*](recursive/113_路径总和II.md)|路径总和II|medium|递归|python3|
 |[120](dp/120_三角形最小路径和.md)|三角形最小路径和|medium|动态规划|python3|
