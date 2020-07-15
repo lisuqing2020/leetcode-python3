@@ -38,6 +38,7 @@
 |[917](LR/917_仅仅反转字母.md)|仅仅反转字母|easy|双指针|python3|
 |[966](dict/966_元音拼写检查器.md)|元音拼写检查器|medium|字典|python3|
 |[1080*](recursive/1080_根到叶路径上的不足节点.md)|根到叶路径上的不足节点|medium|递归|python3|
+|[1262**](dp/1262_可被三整除的最大和.md)|可被三整除的最大和|medium|动态规划|python3|
 |[1339*](recursive/1339_分裂二叉树的最大乘积.md)|分裂二叉树的最大乘积|medium|递归|python3|
 |[1375*](idea/1375_灯泡开关III.md)|灯泡开关III|medium|想法题|python3|
 |[1391*](search/1391_检查网络中是否存在有效路径.md)|检查网络中是否存在有效路径|medium|搜索|python3|
