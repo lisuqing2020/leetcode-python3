@@ -24,6 +24,7 @@
 |[236*](recursive/236_二叉树的最近公共祖先.md)|二叉树的最近公共祖先|medium|递归|python3|
 |[287**](half/287_寻找重复数.md)|寻找重复数|medium|二分|python3|
 |[337*](dp/337_打家劫舍III.md)|打家劫舍III|medium|动态规划|python3|
+|[338*](dp/338_比特位计数.md)|比特位计数|动态规划|python3|
 |[394*](str/394_字符串解码.md)|字符串解码|medium|字符串|python3|
 |[413**](dp/413_等差数列划分.md)|等差数列划分|medium|动态规划|python3|
 |[454*](idea/454_四数相加II.md)|四数相加II|medium|想法题|python3|
