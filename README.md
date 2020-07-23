@@ -8,6 +8,7 @@
 |[18**](LR/18_四数之和.md)|四数之和|medium|双指针|python3|
 |[32**](hard/32_最长有效括号.md)|最长有效括号|hard|动态规划|python3|
 |[44**](hard/44_通配符匹配.md)|通配符匹配|hard|动态规划|python3|
+|[56*](idea/56_合并区间.md)|合并区间|medium|想法题|python3|
 |[62](dp/62_不同路径.md)|不同路径|medium|动态规划|python3|
 |[63**](dp/63_不同路径II.md)|不同路径II|medium|动态规划|python3|
 |[64](dp/64_最小路径和.md)|最小路径和|medium|动态规划|python3|
