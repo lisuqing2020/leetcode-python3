@@ -29,6 +29,7 @@
 |[287**](half/287_寻找重复数.md)|寻找重复数|medium|二分|python3|
 |[337*](dp/337_打家劫舍III.md)|打家劫舍III|medium|动态规划|python3|
 |[338*](dp/338_比特位计数.md)|比特位计数|medium|动态规划|python3|
+|[343*](dp/343_整数拆分.md)|整数拆分|medium|动态规划|python3|
 |[392](LR/392_判断子序列.md)|判断子序列|easy|双指针|python3|
 |[394*](str/394_字符串解码.md)|字符串解码|medium|字符串|python3|
 |[413**](dp/413_等差数列划分.md)|等差数列划分|medium|动态规划|python3|
