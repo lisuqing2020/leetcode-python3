@@ -47,6 +47,7 @@
 |[785**](search/785_判断二分图.md)|判断二分图|medium|搜索|python3|
 |[917](LR/917_仅仅反转字母.md)|仅仅反转字母|easy|双指针|python3|
 |[966](dict/966_元音拼写检查器.md)|元音拼写检查器|medium|字典|python3|
+|[1014*](idea/1014_最佳观光组合.md)|最佳观光组合|medium|想法题|python3|
 |[1025*](idea/1025_除数博弈.md)|除数博弈|easy|想法题|python3|
 |[1080*](recursive/1080_根到叶路径上的不足节点.md)|根到叶路径上的不足节点|medium|递归|python3|
 |[1262**](dp/1262_可被三整除的最大和.md)|可被三整除的最大和|medium|动态规划|python3|
