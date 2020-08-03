@@ -33,6 +33,7 @@
 |[392](LR/392_判断子序列.md)|判断子序列|easy|双指针|python3|
 |[394*](str/394_字符串解码.md)|字符串解码|medium|字符串|python3|
 |[413**](dp/413_等差数列划分.md)|等差数列划分|medium|动态规划|python3|
+|[415](str/415_字符串相加.md)|字符串相加|easy|字符串|python3|
 |[450*](tree/450_删除二叉搜索树中的节点.md)|删除二叉搜索树中的节点|medium|二叉树|python3|
 |[454*](idea/454_四数相加II.md)|四数相加II|medium|想法题|python3|
 |[468](str/468_验证IP地址.md)|验证IP地址|medium|字符串|python3|
