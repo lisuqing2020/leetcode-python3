@@ -7,6 +7,7 @@
 |[11*](LR/11_盛最多水的容器.md)|盛最多水的容器|medium|双指针|python3|
 |[18**](LR/18_四数之和.md)|四数之和|medium|双指针|python3|
 |[32**](hard/32_最长有效括号.md)|最长有效括号|hard|动态规划|python3|
+|[39*](search/39_组合总和.md)|组合总和|medium|搜索|python3|
 |[44**](hard/44_通配符匹配.md)|通配符匹配|hard|动态规划|python3|
 |[56*](idea/56_合并区间.md)|合并区间|medium|想法题|python3|
 |[62](dp/62_不同路径.md)|不同路径|medium|动态规划|python3|
