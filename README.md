@@ -28,6 +28,7 @@
 |[198](dp/198_打家劫舍.md)|打家劫舍|easy|动态规划|python3|
 |[213*](dp/213_打家劫舍II.md)|打家劫舍II|medium|动态规划|python3|
 |[215](sort/215_数组中的第K个最大元素.md)|数组中的第K个最大元素|medium|排序|python3|
+|[216](search/216_组合总和III.md)|组合总和III|medium|搜索|python3|
 |[236*](recursive/236_二叉树的最近公共祖先.md)|二叉树的最近公共祖先|medium|递归|python3|
 |[287**](half/287_寻找重复数.md)|寻找重复数|medium|二分|python3|
 |[337*](dp/337_打家劫舍III.md)|打家劫舍III|medium|动态规划|python3|
