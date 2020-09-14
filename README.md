@@ -17,6 +17,7 @@
 |[77](search/77_组合.md)|组合|medium|搜索|python3|
 |[79](search/79_单词搜索.md)|单词搜索|medium|搜索|python3|
 |[84**](hard/84_柱状图中最大的矩形.md)|柱状图中最大的矩形|hard|单调栈|python3|
+|[94*](tree/94_二叉树的中序遍历.md)|二叉树的中序遍历|medium|二叉树|python3|
 |[95***](dp/95_不同的二叉搜索树II.md)|不同的二叉搜索树II|medium|动态规划|python3|
 |[96**](dp/96_不同的二叉搜索树.md)|不同的二叉搜索树|medium|动态规划|python3|
 |[101*](recursive/101_对称二叉树.md)|对称二叉树|easy|递归|python3|
