@@ -45,6 +45,7 @@
 |[454*](idea/454_四数相加II.md)|四数相加II|medium|想法题|python3|
 |[468](str/468_验证IP地址.md)|验证IP地址|medium|字符串|python3|
 |[491*](recursive/491_递增子序列.md)|递增子序列|medium|递归|python3|
+|[501*](tree/501_二叉搜索树中的众数.md)|二叉搜索树中的众数|easy|二叉树|python3|
 |[508](recursive/508_出现次数最多的子树元素和.md)|出现次数最多的子树元素和|medium|递归|python3|
 |[538](tree/538_把二叉搜索树转换为累加树.md)|把二叉搜索树转换为累加树|easy|二叉树|python3|
 |[594](idea/594_最长和谐子序列.md)|最长和谐子序列|easy|想法题|python3|
