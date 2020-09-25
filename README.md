@@ -22,6 +22,7 @@
 |[96**](dp/96_不同的二叉搜索树.md)|不同的二叉搜索树|medium|动态规划|python3|
 |[101*](recursive/101_对称二叉树.md)|对称二叉树|easy|递归|python3|
 |[104](search/104_二叉树的最大深度.md)|二叉树的最大深度|easy|搜索|python3|
+|[106*](tree/106_从中序与后序遍历序列构造二叉树.md)|从中序与后序遍历序列构造二叉树|medium|二叉树|python3|
 |[113*](recursive/113_路径总和II.md)|路径总和II|medium|递归|python3|
 |[117](search/117_填充每个节点的下一个右侧节点指针II.md)|填充每个节点的下一个右侧节点指针II|medium|搜索|python3|
 |[120](dp/120_三角形最小路径和.md)|三角形最小路径和|medium|动态规划|python3|
