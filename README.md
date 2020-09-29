@@ -26,6 +26,7 @@
 |[113*](recursive/113_路径总和II.md)|路径总和II|medium|递归|python3|
 |[117](search/117_填充每个节点的下一个右侧节点指针II.md)|填充每个节点的下一个右侧节点指针II|medium|搜索|python3|
 |[120](dp/120_三角形最小路径和.md)|三角形最小路径和|medium|动态规划|python3|
+|[145](tree/145_二叉树的后序遍历.md)|二叉树的后序遍历|medium|二叉树|python3|
 |[153*](half/153_寻找旋转排序数组中的最小值.md)|寻找旋转排序数组中的最小值|medium|二分|python3|
 |[154*](hard/154_寻找旋转排序数组中的最小值II.md)|寻找旋转排序数组中的最小值II|hard|二分|python3|
 |[167](LR/167_两数之和II-输入有序数组.md)|两数之和II-输入有序数组|easy|双指针|python3|
