@@ -59,6 +59,7 @@
 |[721*](dsu/721_账户合并.md)|账户合并|medium|并查集|python3|
 |[739*](idea/739_每日温度.md)|每日温度|medium|单调栈|python3|
 |[740**](dp/740_删除与获得点数.md)|删除与获得点数|medium|动态规划|python3|
+|[763**](LR/763_划分字母区间.md)|划分字母区间|medium|双指针|python3|
 |[769*](idea/769_最多能完成排序的块.md)|最多能完成排序的块|medium|想法题|python3|
 |[785**](search/785_判断二分图.md)|判断二分图|medium|搜索|python3|
 |[917](LR/917_仅仅反转字母.md)|仅仅反转字母|easy|双指针|python3|
