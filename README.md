@@ -28,6 +28,7 @@
 |[113*](recursive/113_路径总和II.md)|路径总和II|medium|递归|python3|
 |[117](search/117_填充每个节点的下一个右侧节点指针II.md)|填充每个节点的下一个右侧节点指针II|medium|搜索|python3|
 |[120](dp/120_三角形最小路径和.md)|三角形最小路径和|medium|动态规划|python3|
+|[129](tree/129_求根到叶子节点数字之和.md)|求根到叶子节点数字之和|medium|二叉树|python3|
 |[143](list/143_重排链表.md)|重排链表|medium|链表|python3|
 |[144](tree/144_二叉树的前序遍历.md)|二叉树的前序遍历|medium|二叉树的前序遍历|python3|
 |[145](tree/145_二叉树的后序遍历.md)|二叉树的后序遍历|medium|二叉树|python3|
