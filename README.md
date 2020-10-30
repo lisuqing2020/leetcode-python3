@@ -7,6 +7,7 @@
 |[6*](idea/6_Z字形变换.md)|Z字形变换|medium|想法|python3|
 |[11*](LR/11_盛最多水的容器.md)|盛最多水的容器|medium|双指针|python3|
 |[18**](LR/18_四数之和.md)|四数之和|medium|双指针|python3|
+|[22**](recursive/22_括号生成.md)|括号生成|medium|递归|python3|
 |[24*](recursive/24_两两交换链表中的节点.md)|两两交换链表中的节点|medium|递归|python3|
 |[32**](hard/32_最长有效括号.md)|最长有效括号|hard|动态规划|python3|
 |[39*](search/39_组合总和.md)|组合总和|medium|搜索|python3|
