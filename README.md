@@ -10,6 +10,7 @@
 |[22**](recursive/22_括号生成.md)|括号生成|medium|递归|python3|
 |[24*](recursive/24_两两交换链表中的节点.md)|两两交换链表中的节点|medium|递归|python3|
 |[32**](hard/32_最长有效括号.md)|最长有效括号|hard|动态规划|python3|
+|[34*](half/34_在排序数组中查找元素的第一个和最后一个位置.md)|在排序数组中查找元素的第一个和最后一个位置|medium|二分|python3|
 |[39*](search/39_组合总和.md)|组合总和|medium|搜索|python3|
 |[40](search/40_组合总和II.md)|组合总和II|medium|搜索|python3|
 |[44**](hard/44_通配符匹配.md)|通配符匹配|hard|动态规划|python3|
