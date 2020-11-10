@@ -44,6 +44,7 @@
 |[216](search/216_组合总和III.md)|组合总和III|medium|搜索|python3|
 |[236*](recursive/236_二叉树的最近公共祖先.md)|二叉树的最近公共祖先|medium|递归|python3|
 |[287**](half/287_寻找重复数.md)|寻找重复数|medium|二分|python3|
+|[307*](tree/307_区域和检索 - 数组可修改.md)|区域和检索 - 数组可修改|medium|线段树|python3|
 |[337*](dp/337_打家劫舍III.md)|打家劫舍III|medium|动态规划|python3|
 |[338*](dp/338_比特位计数.md)|比特位计数|medium|动态规划|python3|
 |[343*](dp/343_整数拆分.md)|整数拆分|medium|动态规划|python3|
