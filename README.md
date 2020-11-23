@@ -54,6 +54,7 @@
 |[413**](dp/413_等差数列划分.md)|等差数列划分|medium|动态规划|python3|
 |[415](str/415_字符串相加.md)|字符串相加|easy|字符串|python3|
 |[450*](tree/450_删除二叉搜索树中的节点.md)|删除二叉搜索树中的节点|medium|二叉树|python3|
+|[452*](greedy/452_用最少数量的箭引爆气球.md)|用最少数量的箭引爆气球|medium|贪心|C++|
 |[454*](idea/454_四数相加II.md)|四数相加II|medium|想法题|python3|
 |[468](str/468_验证IP地址.md)|验证IP地址|medium|字符串|python3|
 |[491*](recursive/491_递增子序列.md)|递增子序列|medium|递归|python3|
